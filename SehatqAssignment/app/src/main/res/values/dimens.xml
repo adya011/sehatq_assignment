@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_edtext">20dp</dimen>
+    <dimen name="padding_login">30dp</dimen>
+    <dimen name="padding_dashboard">20dp</dimen>
+    <dimen name="radius_button">4dp</dimen>
+</resources>

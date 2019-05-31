@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#C9C9C9</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFF</color>
+    <color name="toolbar">#FFF</color>
+
+    <color name="black_standard">#101010</color>
+
+    <color name="button_standard">#D82728</color>
+    <color name="button_standard_pressed">#7a1213</color>
+    <color name="button_standard_disabled">#c1c1c1</color>
+    <color name="gray_text">#8e8e8e</color>
+    <color name="background_basic">#FAF3EC</color>
+</resources>

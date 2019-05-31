@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SehatqAssignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">107266609658139</string>
+    <string name="fb_login_protocol_scheme">fb107266609658139</string>
+
+    <string name="seomthing_wrong">Oops something went wrong.</string>
+    <string name="network_problem">n unknown network error has occured.</string>
+</resources>
